@@ -187,7 +187,7 @@ The bug lifecycle describes the process of managing a defect from the moment of 
 | **Testing the fix** | Testers test whether the bug has been fixed and whether the fix has resulted in new defects (Hutcheson, 2003).|
 | **Closure**            |If a bug is not reproducible, it is marked as fixed and closed.|
 
-[drawio:./msd-final-paper.svg:]
+![alt text](<Скриншот 25.11.24_02.44.12.png>)
 
 **Bug fixing techniques**
 Bug fixing technologies depend on the development methodology adopted by the project.
