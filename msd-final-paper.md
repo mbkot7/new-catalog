@@ -1,9 +1,3 @@
-<style>
-  body {
-    text-align: justify;
-  }
-</style>
-
 # MSD Final Paper
 ## Title: Organisation of the testing process and its impact on project management
 Author: Kotelevskaya Marina MS-SE-01 
@@ -193,7 +187,7 @@ The bug lifecycle describes the process of managing a defect from the moment of 
 | **Testing the fix** | Testers test whether the bug has been fixed and whether the fix has resulted in new defects (Hutcheson, 2003).|
 | **Closure**            |If a bug is not reproducible, it is marked as fixed and closed.|
 
-![alt text](<Скриншот 25.11.24_02.44.12.png>)
+[drawio:./msd-final-paper.svg:]
 
 **Bug fixing techniques**
 Bug fixing technologies depend on the development methodology adopted by the project.
